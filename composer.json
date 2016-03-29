@@ -1,15 +1,17 @@
 {
-    "name": "rase/socket.io-emitter",
+    "name": "skorovodkin/socket.io-emitter",
     "description": "A PHP implementation of socket.io-emitter",
-    "homepage": "https://github.com/rase-/socket.io-php-emitter",
+    "homepage": "https://github.com/skorovodkin/socket.io-php-emitter",
     "support": {
-        "issues": "https://github.com/rase-/socket.io-php-emitter/issues",
-        "source": "https://github.com/rase-/socket.io-php-emitter"
+        "issues": "https://github.com/skorovodkin/socket.io-php-emitter/issues",
+        "source": "https://github.com/skorovodkin/socket.io-php-emitter"
     },
     "license": "MIT",
     "keywords": [
         "socket.io",
-        "emit"
+        "emit",
+        "namespace",
+        "emitter"
     ],
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
